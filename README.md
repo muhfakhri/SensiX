@@ -303,11 +303,6 @@ Pull requests are welcome! For major changes, please open an issue first.
 6. Push to your fork
 7. Open a Pull Request
 
----
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
 
 ---
 
