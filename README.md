@@ -3,11 +3,14 @@
 <div align="center">
 
 ```
-   _____ _____ __________   ________
-  / ____// ____// ____/ __ \/  _/ __ \
- / /    / __/  / __/ / /_/ // // /_/ /
-/ /___ / /____/ /____/ _, _// / ____/
-\____//_____/_____/_/ |_/___/_/_/
+.d8888. d88888b d8b   db .d8888. d888888b db    db 
+88'  YP 88'     888o  88 88'  YP   `88'   `8b  d8' 
+`8bo.   88ooooo 88V8o 88 `8bo.      88     `8bd8'  
+  `Y8b. 88~~~~~ 88 V8o88   `Y8b.    88     .dPYb.  
+db   8D 88.     88  V888 db   8D   .88.   .8P  Y8. 
+`8888Y' Y88888P VP   V8P `8888Y' Y888888P YP    YP 
+                                                   
+                                                   
 ```
 
 **A powerful, multi-threaded sensitive data exposure scanner for identifying exposed credentials, configuration files, and dangerous data.**
@@ -322,14 +325,6 @@ Built with passion for the cybersecurity community.
 
 ---
 
-## 📞 Contact & Support
-
-- **Issues**: GitHub Issues
-- **Discussions**: GitHub Discussions
-- **Email**: contact@example.com
-
----
-
 ## 🌐 Related Projects
 
 - [OWASP ZAP](https://www.zaproxy.org/) - Web application security scanner
@@ -341,8 +336,8 @@ Built with passion for the cybersecurity community.
 
 <div align="center">
 
-**[⭐ Star this repo if it was useful!](https://github.com/yourusername/SensiX)**
+**[⭐ Star this repo if it was useful!](https://github.com/muhfakhri/SensiX)**
 
-Made with ❤️ by the Security Community
+Made with ❤️ by muhfakhri
 
 </div>
