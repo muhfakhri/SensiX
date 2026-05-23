@@ -8,11 +8,14 @@ Supports: shuffle, multi-threading, batch processing, mass scanning
 
 # ASCII Banner
 BANNER = r"""
-   _____ _____ __________   ________
-  / ____// ____// ____/ __ \/  _/ __ \
- / /    / __/  / __/ / /_/ // // /_/ /
-/ /___ / /____/ /____/ _, _// // ____/
-\____//_____/_____/_/ |_/___/_/_/
+.d8888. d88888b d8b   db .d8888. d888888b db    db 
+88'  YP 88'     888o  88 88'  YP   `88'   `8b  d8' 
+`8bo.   88ooooo 88V8o 88 `8bo.      88     `8bd8'  
+  `Y8b. 88~~~~~ 88 V8o88   `Y8b.    88     .dPYb.  
+db   8D 88.     88  V888 db   8D   .88.   .8P  Y8. 
+`8888Y' Y88888P VP   V8P `8888Y' Y888888P YP    YP 
+                                                   
+                                                   
 
   Sensitive Data Scanner v1.0
   [*] Mass Vulnerability Scanner
